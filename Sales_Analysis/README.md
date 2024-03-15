@@ -4,10 +4,9 @@
 * [Dataset](https://github.com/AndrejPHP/w3schools-database/blob/master/w3schools.sql)
 * [Objective](#objective)
 * [Entity Relationship Diagram](#entity-relationship-diagram)
-* [SQL Solution](https://github.com/ritusantra/SQL-Projects/blob/main/Sales%20analysis%20of%20a%20store/StoreDB.sql)
+* [SQL Solution](https://github.com/MukulGehlot/SQL-Projects/blob/main/Sales_Analysis/StoreDB.sql)
 * [Key Insights](#key-insights)
 
-<img src="https://www.comtecinfo.com/rpa/wp-content/uploads/2017/03/analytics2-01.png" width="800" height="400">
 
 ## Objective
 
@@ -15,7 +14,8 @@ To analyse the data of an online store.
 
 ## Entity Relationship Diagram
 
-<img src="https://raw.githubusercontent.com/ritusantra/SQL-Projects/main/Sales%20analysis%20of%20a%20store/ER%20Diagram%20Store%20DB.PNG" width="800" height="500">
+
+![https://i.imgur.com/Ik9Iboz.png](https://i.imgur.com/Ik9Iboz.png)
 
 ## Key Insights
 
