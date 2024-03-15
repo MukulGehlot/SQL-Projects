@@ -77,8 +77,8 @@ In **APAC** region it operates its business in - **Australia, Bangladesh, India,
 
 ## Presentation
 
-[Presentation Slides](https://github.com/ritusantra/SQL-Projects/blob/main/Provide%20Insights%20to%20Management%20in%20Consumer%20Goods%20Domain/Presentation.pdf)
+[Presentation Slides](https://github.com/MukulGehlot/SQL-Projects/blob/main/Insights%20to%20Management%20in%20Consumer%20Goods%20Domain/Presentation.pdf)
 
 ## Project Challenge Link & Dataset
 
-[Project Challenge Link & Dataset](https://codebasics.io/event/codebasics-resume-project-challenge)
+[Project Challenge Link & Dataset](https://files.codebasics.io/uploads/input-for-participants-6.zip?Expires=1710545962&Signature=qpDOIF6CraVPNovKSzhztKLn87HtLbRszgy4Wgg7Nssut6j7c3TduIyt5aFHhjyF~8zmD~azOiCegarXhzCfu6M4njVLKKlBzVcaAE9nZG3J4rLsT3qe-88RO5oiP9llt1oF5PhFMWcT9Xizv7nQRO2ogZfsID7CEPSCuhnHvXFa~hzMQdmkfi977QvNFCOq6kp8F4tgiqvKTZQ1Cfaf40vE-P8PuS8DXb1IIzE8dv9c9~5lqPoi6lebMbuJsd6FzElR-3yeOCxBNT4YDRdsUX9MTbTA1TQe~0MlAWPXSV3ZouIlC0aTG~FjNugLKtzMyUL9ky3~-X2OHA1LrozRTQ__&Key-Pair-Id=K2RNEYYX7N2F8M)
