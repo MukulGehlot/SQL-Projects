@@ -46,25 +46,25 @@ extract the data from the ``sales`` table for the required year and month and in
 
 ## Insights
 ### Product Analysis
-1. What are the top 3 products by total revenue before discount? <br> ![image](https://imgur.com/XuQar5W)
+1. What are the top 3 products by total revenue before discount? <br> ![image](https://i.imgur.com/XuQar5W.png)
 
-2. What is the total quantity, revenue, and discount for each segment? <br> ![image](https://imgur.com/PLpLEuH)
+2. What is the total quantity, revenue, and discount for each segment? <br> ![image](https://i.imgur.com/PLpLEuH.png)
 
-3. What is the top-selling product for each segment?<br> ![image](https://imgur.com/2EeIkMP)
+3. What is the top-selling product for each segment?<br> ![image](https://i.imgur.com/2EeIkMP.png)
 
-4. What is the total quantity, revenue, and discount for each category?<br> ![image](https://imgur.com/VLlcoB8)
+4. What is the total quantity, revenue, and discount for each category?<br> ![image](https://i.imgur.com/VLlcoB8.png)
 
-5. What is the top-selling product for each category?<br> ![image](https://imgur.com/udvJkNZ)
+5. What is the top-selling product for each category?<br> ![image](https://i.imgur.com/udvJkNZ.png)
 
-6. What is the percentage split of revenue by product for each segment?<br> ![image](https://imgur.com/vP1IcCU)
+6. What is the percentage split of revenue by product for each segment?<br> ![image](https://i.imgur.com/vP1IcCU.png)
 
-7. What is the percentage split of revenue by segment for each category?<br> ![image](https://imgur.com/cHg0FIG)
+7. What is the percentage split of revenue by segment for each category?<br> ![image](https://i.imgur.com/cHg0FIG.png)
 
-8. What is the percentage split of total revenue by category?<br> ![image](https://imgur.com/bFoHxmT)
+8. What is the percentage split of total revenue by category?<br> ![image](https://i.imgur.com/bFoHxmT.png)
 
-9. What is the total transaction “penetration” for each product? (hint: penetration = number of transactions where at least 1 quantity of a product was purchased divided by the total number of transactions)<br> ![image](https://imgur.com/3mSv6bD)
+9. What is the total transaction “penetration” for each product? (hint: penetration = number of transactions where at least 1 quantity of a product was purchased divided by the total number of transactions)<br> ![image](https://i.imgur.com/3mSv6bD.png)
 
-10. What is the most common combination of at least 1 quantity of any 3 products in a 1 single transaction?<br> ![image](https://imgur.com/dMEnqHO)
+10. What is the most common combination of at least 1 quantity of any 3 products in a 1 single transaction?<br> ![image](https://i.imgur.com/dMEnqHO.png)
 
 
 ### Transaction Analysis
