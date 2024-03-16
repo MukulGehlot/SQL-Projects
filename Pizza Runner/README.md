@@ -25,11 +25,11 @@ The task is to clean the data and apply some basic calculations so Danny can bet
 <img src="https://miro.medium.com/max/828/1*6-cAt3wHrsK43NiUbdkCzw.png" width="800" height="500">
 
 ## SQL Solutions
-A. [Data Cleaning](https://github.com/ritusantra/SQL-Projects/blob/main/Pizza%20Runner/Data%20Cleaning.sql) <br>
-B. [Pizza Metric](https://github.com/ritusantra/SQL-Projects/blob/main/Pizza%20Runner/Pizza%20Metrics.sql) <br>
-C. [Runner and Customer Experience](https://github.com/ritusantra/SQL-Projects/blob/main/Pizza%20Runner/Runner%20and%20Customer%20Experience.sql) <br>
-D. [Ingredient Optimisation](https://github.com/ritusantra/SQL-Projects/blob/main/Pizza%20Runner/Ingredient%20Optimisation.sql) <br>
-E. [Pricing and Ratings](https://github.com/ritusantra/SQL-Projects/blob/main/Pizza%20Runner/Pricing%20and%20Ratings.sql) <br>
+A. [Data Cleaning](https://github.com/mukulgehlot/SQL-Projects/blob/main/Pizza%20Runner/Data%20Cleaning.sql) <br>
+B. [Pizza Metric](https://github.com/mukulgehlot/SQL-Projects/blob/main/Pizza%20Runner/Pizza%20Metrics.sql) <br>
+C. [Runner and Customer Experience](https://github.com/mukulgehlot/SQL-Projects/blob/main/Pizza%20Runner/Runner%20and%20Customer%20Experience.sql) <br>
+D. [Ingredient Optimisation](https://github.com/mukulgehlot/SQL-Projects/blob/main/Pizza%20Runner/Ingredient%20Optimisation.sql) <br>
+E. [Pricing and Ratings](https://github.com/mukulgehlot/SQL-Projects/blob/main/Pizza%20Runner/Pricing%20and%20Ratings.sql) <br>
 
 ## Key Insights
 
