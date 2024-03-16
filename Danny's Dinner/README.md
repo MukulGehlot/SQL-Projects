@@ -6,7 +6,7 @@
 * [Entity Relationship Diagram](#entity-relationship-diagram)
 * [Case Study Questions](#case-study-questions)
 * [Key insights from the analysis](#key-insights-from-the-analysis)
-* [SQL Solution](https://github.com/ritusantra/SQL-Projects/blob/main/Danny's%20Diner/Danny's%20Diner.sql)
+* [SQL Solution](https://github.com/MukulGehlot/SQL-Projects/blob/main/Danny's%20Dinner/Danny's%20Diner.sql)
 * [Note](#note)
 
 ## Introduction
