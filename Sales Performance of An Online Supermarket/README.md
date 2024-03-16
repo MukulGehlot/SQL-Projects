@@ -71,10 +71,10 @@ Additionally, the business areas with the **positive impact** in **sales metrics
 
 
 ## SQL Queries
-* [Data Cleansing](https://github.com/mukulgehlot/SQL-Projects/blob/main/Data%20Mart/1.%20Data%20Cleansing.sql)
-* [Data Exploration](https://github.com/mukulgehlot/SQL-Projects/blob/main/Data%20Mart/2.%20Data%20Exploration.sql)
-* [Before & After Analysis](https://github.com/mukulgehlot/SQL-Projects/blob/main/Data%20Mart/3.%20Before%20%26%20After%20Analysis.sql)
-* [Bonus Question](https://github.com/mukulgehlot/SQL-Projects/blob/main/Data%20Mart/4.%20Bonus%20Question.sql)
+* [Data Cleansing](https://github.com/MukulGehlot/SQL-Projects/blob/main/Sales%20Performance%20of%20An%20Online%20Supermarket/1.%20Data%20Cleansing.sql)
+* [Data Exploration](https://github.com/MukulGehlot/SQL-Projects/blob/main/Sales%20Performance%20of%20An%20Online%20Supermarket/2.%20Data%20Exploration.sql)
+* [Before & After Analysis](https://github.com/MukulGehlot/SQL-Projects/blob/main/Sales%20Performance%20of%20An%20Online%20Supermarket/3.%20Before%20%26%20After%20Analysis.sql)
+* [Bonus Question](https://github.com/MukulGehlot/SQL-Projects/blob/main/Sales%20Performance%20of%20An%20Online%20Supermarket/4.%20Bonus%20Question.sql)
   
 ## Note
 This project is one of the [SQL challenges](https://8weeksqlchallenge.com/case-study-5/) by [Danny Ma](https://www.linkedin.com/in/datawithdanny/).
