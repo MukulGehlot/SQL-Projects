@@ -22,7 +22,7 @@ Danny needs help to quantify the impact of this change on the sales performance 
 For this case study there is only a single table: `data_mart.weekly_sales`<br>
 The Entity Relationship Diagram is shown below with the data types.
 
-![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/073f7717-2486-40ab-b9fe-9c6bcf024ab3)
+![image](https://i.imgur.com/pJ4NMQI.png)
 
 ## Tools
 * MySQL
@@ -38,7 +38,7 @@ The Entity Relationship Diagram is shown below with the data types.
 
 The new table **clean_weekly_sales** with clean data is shown below with the data types.
 
-![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/bb9476f6-2bc1-4103-848f-8ec5ba2932ff)
+![image](https://i.imgur.com/GE2SNfW.png)
 
 
 ## Data Exploration
@@ -71,10 +71,10 @@ Additionally, the business areas with the **positive impact** in **sales metrics
 
 
 ## SQL Queries
-* [Data Cleansing](https://github.com/ritusantra/SQL-Projects/blob/main/Data%20Mart/1.%20Data%20Cleansing.sql)
-* [Data Exploration](https://github.com/ritusantra/SQL-Projects/blob/main/Data%20Mart/2.%20Data%20Exploration.sql)
-* [Before & After Analysis](https://github.com/ritusantra/SQL-Projects/blob/main/Data%20Mart/3.%20Before%20%26%20After%20Analysis.sql)
-* [Bonus Question](https://github.com/ritusantra/SQL-Projects/blob/main/Data%20Mart/4.%20Bonus%20Question.sql)
+* [Data Cleansing](https://github.com/mukulgehlot/SQL-Projects/blob/main/Data%20Mart/1.%20Data%20Cleansing.sql)
+* [Data Exploration](https://github.com/mukulgehlot/SQL-Projects/blob/main/Data%20Mart/2.%20Data%20Exploration.sql)
+* [Before & After Analysis](https://github.com/mukulgehlot/SQL-Projects/blob/main/Data%20Mart/3.%20Before%20%26%20After%20Analysis.sql)
+* [Bonus Question](https://github.com/mukulgehlot/SQL-Projects/blob/main/Data%20Mart/4.%20Bonus%20Question.sql)
   
 ## Note
 This project is one of the [SQL challenges](https://8weeksqlchallenge.com/case-study-5/) by [Danny Ma](https://www.linkedin.com/in/datawithdanny/).
