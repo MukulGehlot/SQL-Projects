@@ -18,7 +18,7 @@ The project aims to assist the merchandising team in analyzing their sales perfo
 ``Sales`` table contains product-level information for all the transactions made for Balanced Tree including quantity, price, percentage discount, member status, a transaction ID, and also the transaction timestamp.
 
 
-![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/b469cad7-9f65-4202-8efc-7caac805e347)
+![image](https://i.imgur.com/A4134db.png)
 
 
 ## Tools
@@ -39,32 +39,32 @@ extract the data from the ``sales`` table for the required year and month and in
 
 
 ## SQL Queries
-1. [Product Analysis](https://github.com/ritusantra/SQL-Projects/blob/main/Product%2C%20Transaction%20%26%20Sales%20Analysis%20of%20a%20Clothing%20Company/1.%20Product%20Analysis.sql)
-2. [Transaction Analysis](https://github.com/ritusantra/SQL-Projects/blob/main/Product%2C%20Transaction%20%26%20Sales%20Analysis%20of%20a%20Clothing%20Company/2.%20Transaction%20Analysis.sql)
-3. [Sales Analysis](https://github.com/ritusantra/SQL-Projects/blob/main/Product%2C%20Transaction%20%26%20Sales%20Analysis%20of%20a%20Clothing%20Company/3.%20Sales%20Analysis.sql)
-4. [Reporting](https://github.com/ritusantra/SQL-Projects/blob/main/Product%2C%20Transaction%20%26%20Sales%20Analysis%20of%20a%20Clothing%20Company/4.%20Reporting.sql)
+1. [Product Analysis](https://github.com/MukulGehlot/SQL-Projects/blob/main/Product%2C%20Transaction%20%26%20Sales%20Analysis/1.%20Product%20Analysis.sql)
+2. [Transaction Analysis](https://github.com/MukulGehlot/SQL-Projects/blob/main/Product%2C%20Transaction%20%26%20Sales%20Analysis/2.%20Transaction%20Analysis.sql)
+3. [Sales Analysis](https://github.com/MukulGehlot/SQL-Projects/blob/main/Product%2C%20Transaction%20%26%20Sales%20Analysis/3.%20Sales%20Analysis.sql)
+4. [Reporting](https://github.com/MukulGehlot/SQL-Projects/blob/main/Product%2C%20Transaction%20%26%20Sales%20Analysis/4.%20Reporting.sql)
 
 ## Insights
 ### Product Analysis
-1. What are the top 3 products by total revenue before discount? <br> ![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/e40d4448-c6b8-4228-ba6a-e1ad20d2fce8)
+1. What are the top 3 products by total revenue before discount? <br> ![image](https://imgur.com/XuQar5W)
 
-2. What is the total quantity, revenue, and discount for each segment? <br> ![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/2e4a8eea-488f-464c-841f-047ded0a2ea6)
+2. What is the total quantity, revenue, and discount for each segment? <br> ![image](https://imgur.com/PLpLEuH)
 
-3. What is the top-selling product for each segment?<br> ![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/777c536d-df03-489e-a3b0-c98449952983)
+3. What is the top-selling product for each segment?<br> ![image](https://imgur.com/2EeIkMP)
 
-4. What is the total quantity, revenue, and discount for each category?<br> ![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/b0e9960f-8792-417e-bdae-c50997d6396e)
+4. What is the total quantity, revenue, and discount for each category?<br> ![image](https://imgur.com/VLlcoB8)
 
-5. What is the top-selling product for each category?<br> ![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/1b1e1d6d-25d0-4b6a-ae79-cf9684d49ea6)
+5. What is the top-selling product for each category?<br> ![image](https://imgur.com/udvJkNZ)
 
-6. What is the percentage split of revenue by product for each segment?<br> ![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/29827c81-0226-48ac-b333-d91d08f8f88e)
+6. What is the percentage split of revenue by product for each segment?<br> ![image](https://imgur.com/vP1IcCU)
 
-7. What is the percentage split of revenue by segment for each category?<br> ![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/9872346e-8e56-4804-b1ad-9a09851d37f3)
+7. What is the percentage split of revenue by segment for each category?<br> ![image](https://imgur.com/cHg0FIG)
 
-8. What is the percentage split of total revenue by category?<br> ![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/5e120d21-9493-4bdd-bc2d-1845664336da)
+8. What is the percentage split of total revenue by category?<br> ![image](https://imgur.com/bFoHxmT)
 
-9. What is the total transaction “penetration” for each product? (hint: penetration = number of transactions where at least 1 quantity of a product was purchased divided by the total number of transactions)<br> ![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/1a1d5c65-44e9-4eb7-8fb5-e61b2a3ef1d7)
+9. What is the total transaction “penetration” for each product? (hint: penetration = number of transactions where at least 1 quantity of a product was purchased divided by the total number of transactions)<br> ![image](https://imgur.com/3mSv6bD)
 
-10. What is the most common combination of at least 1 quantity of any 3 products in a 1 single transaction?<br> ![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/1d61fa06-dad7-48d3-b320-bb23015de25d)
+10. What is the most common combination of at least 1 quantity of any 3 products in a 1 single transaction?<br> ![image](https://imgur.com/dMEnqHO)
 
 
 ### Transaction Analysis
