@@ -1,3 +1,5 @@
 ## 🔖Repository containing all the scenario based SQL Projects 
-![image](https://github.com/MukulGehlot/SQL-Projects/assets/93550361/28b8cc10-acbe-486c-8759-d763f2c17b32) ![image](https://github.com/MukulGehlot/SQL-Projects/assets/93550361/73bb6da0-b7d2-48a4-8fe5-e6fa0d129824)
+<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-2048x1064-jfbaqrzh.png" alt="mukul-gehlot" height="80" width="130" /></a>
+ <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="mukul-gehlot" height="100" width="110" /></a>
+
 
