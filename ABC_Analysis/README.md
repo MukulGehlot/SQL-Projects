@@ -34,7 +34,7 @@ The value of each of the units or Stock keeping units (SKU) is analyzed and segm
 Two data tables are used:
 ```products``` and  ```order_details```
 
-![image](https://github.com/ritusantra/SQL-Projects/assets/75059347/7835b3cd-1739-4ff1-accf-0eb1d8f5d225)
+![image](https://i.imgur.com/nNRKfRW.png)
 
 
 ## Step by Step ABC Analysis
